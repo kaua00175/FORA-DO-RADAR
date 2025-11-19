@@ -1,0 +1,28 @@
+{
+  "name": "fora-do-radar",
+  "version": "1.0.0",
+  "description": "Marketplace de Drum Kits, Beats e Melodias para Trap/Rap",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "latest",
+    "sonner": "^2.0.3",
+    "motion": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2",
+    "typescript": "^5.5.3",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "tailwindcss": "^4.0.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47"
+  }
+}
